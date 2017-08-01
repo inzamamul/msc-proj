@@ -1,0 +1,11 @@
+\contentsline {section}{Glossary}{1}{section*.5}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Background}{3}{section.2}
+\contentsline {section}{\numberline {3}Related Work}{4}{section.3}
+\contentsline {section}{\numberline {4}Approach}{5}{section.4}
+\contentsline {section}{\numberline {5}Results}{6}{section.5}
+\contentsline {section}{\numberline {6}Conclusion}{7}{section.6}
+\contentsline {section}{References}{8}{section*.7}
+\contentsline {section}{\numberline {A}Appendix: Review of Data Mining Techniques}{9}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Classification}{9}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Clustering}{9}{subsection.A.2}

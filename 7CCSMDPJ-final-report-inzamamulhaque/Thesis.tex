@@ -1,0 +1,105 @@
+\documentclass[]{kclthesis}  % [releaseproject] will check release,
+							 % [notreleaseproject] will check not release.
+
+% glossaries
+\usepackage[toc,acronym]{glossaries} 
+
+\linespread{1.5}
+\newfam\msbfam
+\def\Bbb#1{\fam\msbfam\relax#1}
+
+\def\blue#1{\textcolor{blue}{#1}}
+\def\red#1{\textcolor{red}{#1}}
+
+
+%==========
+% ENTER YOUR NAME, STUDENT NUMBER, PROJECT TITLE, PROJECT SUPERVISOR(S) & DOMAIN ADVISOR(S) AND FINAL WORD COUNT (excluding Cover page, Acknowledgements, Table of Contents, Nomenclature, List of Figures and Tables, References, and Appendixes) HERE
+%-----
+\author{Inzamamul Haque}
+\studentnumber{1664749}
+\title{Using Google's TensorFlow to train the Inception Deep Learning Convolutional Neural Network in order to classify images of cells from drug and stem cell differentiation screens.}
+\supervisor{Dr. Nishanth Sastry, Dr. Amos Folarin, Dr. Davide Danovi}
+\wordcount{ 0 }
+%==========
+
+\modulecode{7CCSMDPJ}
+\modulename{MSc Individual Project}
+\submissiontitle{Individual Project Submission}
+\submissionyear{2016/17}
+\programme{MSc Data Science}
+
+%=====
+% REMOVE THIS "DRAFT" WATERMARK BEFORE YOU GENERATE YOUR FINAL VERSION
+%\usepackage{draftwatermark}
+%\SetWatermarkText{DRAFT}
+%\SetWatermarkScale{8}
+%=====
+
+
+
+%%%%% Glossary
+\makenoidxglossaries
+\include{glossary}
+%\makeglossaries
+
+
+\begin{document}
+\pagenumbering{gobble}
+
+%%%%% official cover page
+\maketitle 		
+
+%%%%% empty page after main page.
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\newpage
+
+%%%%% Abstract
+\include{abstract}
+
+%%%%% Table of contents
+\pagenumbering{roman}
+\setcounter{tocdepth}{4}
+\tableofcontents
+\newpage
+
+%%%%% List of Figures and Tables
+\include{figures_tables}
+
+%%%%% Acknowledgements section
+\include{acknowledgements}
+
+%%%%% Glossary
+\printnoidxglossaries
+
+%%%%% formatting...
+\fancyhead{}
+\fancyfoot{}
+\pagestyle{fancy}
+\fancyhead[RO,LE]{\sffamily\small \thepage}
+\fancyhead[LO,RE]{\sffamily\small \nouppercase{\rightmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.0pt}
+
+\pagenumbering{arabic}
+
+%%%%% Main content sections
+\include{introduction}
+\include{background}
+\include{literature}
+\include{approach}
+\include{results}
+\include{conclusion}
+
+%%%%% References
+\bibliographystyle{ieeetr}
+\bibliography{sample1,sample2} 
+
+%%%%% Appendix(es)
+\appendix
+\include{appendix}
+
+
+%%%%% That's all folks!
+\end{document}
