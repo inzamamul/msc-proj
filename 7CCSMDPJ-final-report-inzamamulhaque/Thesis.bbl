@@ -1,10 +1,5 @@
 \begin{thebibliography}{1}
 
-\bibitem{Joh11}
-I.~M. Johnstone, {\em Gaussian estimation: Sequence and multiresolution
-  models}.
-\newblock 2011.
-
 \bibitem{website:fermentas-lambda}
 F.~Inc., ``Phage lambda: description \& restriction map,'' November 2008.
 
@@ -12,9 +7,27 @@ F.~Inc., ``Phage lambda: description \& restriction map,'' November 2008.
 J.~Doe, {\em The Title}.
 \newblock PhD thesis, University of Mars, 2011.
 
+\bibitem{Joh11}
+I.~M. Johnstone, {\em Gaussian estimation: Sequence and multiresolution
+  models}.
+\newblock 2011.
+
 \bibitem{JohSil05}
 I.~Johnstone and B.~Silverman, ``Ebayesthresh: R programs for empirical bayes
   thresholding,'' {\em Journal of Statistical Software}, vol.~12, no.~8,
   pp.~1--38, 2005.
+
+\bibitem{Joh12}
+I.~M. Johnstone, {\em Gaussian estimation: Sequence and multiresolution
+  models}.
+\newblock kfc, 2011.
+
+\bibitem{Joh13}
+M.~M. Johnstone, {\em Gaussian}.
+\newblock kfc, 2015.
+
+\bibitem{alibaba}
+wallah wallah., {\em wallah wallah}.
+\newblock waaaalllaahh, 1993.
 
 \end{thebibliography}

@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Thesis.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: figures_tables.aux
+A level-1 auxiliary file: acknowledgements.aux
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: background.aux
+A level-1 auxiliary file: literature.aux
+A level-1 auxiliary file: approach.aux
+A level-1 auxiliary file: results.aux
+A level-1 auxiliary file: conclusion.aux
+The style file: ieeetr.bst
+A level-1 auxiliary file: appendix.aux
+Database file #1: sample1.bib
+Database file #2: sample2.bib
+Warning--I didn't find a database entry for "webiste:https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html"
+Warning--empty publisher in Joh11
+You've used 7 entries,
+            1876 wiz_defined-function locations,
+            526 strings with 4186 characters,
+and the built_in function-call counts, 1116 in all, are:
+= -- 109
+> -- 32
+< -- 0
++ -- 15
+- -- 8
+* -- 54
+:= -- 172
+add.period$ -- 12
+call.type$ -- 7
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 60
+empty$ -- 134
+format.name$ -- 8
+if$ -- 275
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 9
+newline$ -- 29
+num.names$ -- 7
+pop$ -- 35
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 19
+stack$ -- 0
+substring$ -- 19
+swap$ -- 10
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 10
+width$ -- 8
+write$ -- 65
+(There were 2 warnings)

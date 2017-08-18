@@ -1,11 +1,10 @@
-\contentsline {section}{Glossary}{1}{section*.5}
-\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {section}{\numberline {2}Background}{4}{section.2}
-\contentsline {section}{\numberline {3}Related Work}{6}{section.3}
-\contentsline {section}{\numberline {4}Approach}{10}{section.4}
-\contentsline {section}{\numberline {5}Results}{12}{section.5}
-\contentsline {section}{\numberline {6}Conclusion}{13}{section.6}
-\contentsline {section}{References}{15}{section*.7}
-\contentsline {section}{\numberline {A}Appendix: Review of Data Mining Techniques}{16}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Classification}{16}{subsection.A.1}
-\contentsline {subsection}{\numberline {A.2}Clustering}{16}{subsection.A.2}
+\contentsline {section}{\numberline {3}Related Work}{7}{section.3}
+\contentsline {section}{\numberline {4}Approach}{11}{section.4}
+\contentsline {section}{\numberline {5}Results}{14}{section.5}
+\contentsline {section}{\numberline {6}Conclusion}{15}{section.6}
+\contentsline {section}{References}{17}{section*.5}
+\contentsline {section}{\numberline {A}Appendix: Review of Data Mining Techniques}{18}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Classification}{18}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Clustering}{18}{subsection.A.2}

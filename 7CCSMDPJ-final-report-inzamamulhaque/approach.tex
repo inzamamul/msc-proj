@@ -1,5 +1,16 @@
 \section{Approach} 
-
+\emph{MARKING CRITERIA FOR APPROACH:: }
+\begin{itemize}
+\item Sufficient research question(s) is/are presented.
+\item Approaches to answering the research questions have been described adequately and alternative approaches are described and considered.
+\item A rationale for the chosen approach to addressing the research question(s) is given.
+\item A rationale for the data set(s) chosen is given.
+\item Selected issues derived from a synthesis of the relevant literature are included (which may include rationale for the data set(s) and research question(s) chosen).
+\item Implementation choices have been justified.
+\item Careful planning and understanding of methodology are demonstrated.
+\item Methodology is sound and has been clearly presented.
+\item Adequate and effective testing of methodology has been performed (e.g., verified with sample data/results).
+\end{itemize}
 \emph{The Approach section of your report should describe what you did. You should discuss your research questions in detail here, explaining for each question how you addressed each question (i.e., what techniques you used) and how you evaluated the success (or failure) of your investigation. This should include a description of the data set(s) that you used for your research (e.g., what you included in your Data Acquisition report that was due in March). \\ \\ 
 Research Question 1: Is it Possible to Perform Image Segmentation Using the Data Set? \\ The data does not to be cleaned as such, but the images of the cell lines will need to undergo image segmentation in order to extract the individual cell objects so that they can be fed into a neural net pipeline in order to achieve the goals stated in the project description. This can be done a number of ways. Currently one method is to build upon existing open source software that is already built for cell profiling and image analysis (CellProfiler) as demonstrated by Kerz et al., and to include the functionality that allows the user to save individual cell pipelines for feeding into neural networks. Another alternative is to use a U-Net convolutional network for the image segmentation (Ronneberger, et al., 2015) that has seen success in other biomedical image segmentation challenges. The plan is to have the images segmented and ready to fed into a neural net pipeline by the end of April 2017. \\
 I used MatLab to segment the images. The process is outlined below. \\
